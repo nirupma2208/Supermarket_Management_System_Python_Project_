@@ -46,14 +46,14 @@ Supermarket Management System is the one of the application that is used by orga
 ## Physical Description
  - **Main Window**
     - Select one of the options
-    ![a](Gallery\a.PNG)
+    ![a](Gallery/a.PNG)
  - **Admin Login**
     - To get you ID and Password click on below button _**To Get ID / Password**_.
-    ![b](Gallery\b.PNG)
+    ![b](Gallery/b.PNG)
     - Then enter your email id and click on _**Submit**_ and wait for a moment a email will send to you contains your ID and Password.
-    ![c](Gallery\c.PNG)
+    ![c](Gallery/c.PNG)
     - Enter you email ID and click on _**LOGIN**_
-    ![d](Gallery\d.PNG)
+    ![d](Gallery/d.PNG)
  - **Admin Panal**
     
     - **Inventory**
@@ -62,32 +62,32 @@ Supermarket Management System is the one of the application that is used by orga
         - Delete one Item
         - Edit Item
         - Delete all table data 
-        ![e](Gallery\e.PNG)
+        ![e](Gallery/e.PNG)
     - **Employees**
         - Search Employee data
         - Add Employee data
         - Delete one Employee data
         - Edit Employee data
         - Delete all table data 
-        ![f](Gallery\f.PNG)
+        ![f](Gallery/f.PNG)
     - **Invoices**
         - Search Invoices data
         - Delete one Invoice data
         - Delete all table data 
-        ![g](Gallery\g.PNG)
+        ![g](Gallery/g.PNG)
     - **Settings**
         - Change your Password
         - Set email id to send bill receipt to customer mail
         - Change your store details which will be shown on bill receipt
         - Delete your account permanently
-        ![g](Gallery\g.PNG)
+        ![g](Gallery/g.PNG)
     - **Logout**
         - Logout the page and will go on main Window
-        ![h](Gallery\h.PNG)
+        ![h](Gallery/h.PNG)
 
 - **Employee Login Window
     - Enter your ID and Password given by Admin and click on _**LOGIN**_
-    ![i](Gallery\i.PNG)
+    ![i](Gallery/i.PNG)
 - **Billing System Window**
     - Customer Details 
         - Fill customer Details
@@ -112,9 +112,9 @@ Supermarket Management System is the one of the application that is used by orga
         - This will search bill receipt by bill Id and shows in Bill Window
     - Logout    
         - This will logout the window and redirect the main window 
-    ![j](Gallery\j.PNG)
-    ![k](Gallery\k.PNG)
-    ![l](Gallery\l.PNG)
+    ![j](Gallery/j.PNG)
+    ![k](Gallery/k.PNG)
+    ![l](Gallery/l.PNG)
 
 
 

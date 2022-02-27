@@ -14,6 +14,7 @@ By using this software, A shop owner can store and sell his /her  product to  th
  - [Features](https://github.com/nirupma2208/PYTHON_PROJECT#features)
  - [Physical Description](https://github.com/nirupma2208/PYTHON_PROJECT#physical-description)
  - [License](https://github.com/nirupma2208/PYTHON_PROJECT#license)
+ - [Feedback](https://github.com/nirupma2208/PYTHON_PROJECT#feedback)
 
 ## Introduction
 
@@ -127,4 +128,7 @@ Supermarket Management System is the one of the application that is used by orga
 ## License
 
 [APACHE](http://www.apache.org/licenses/)
+
+## Feedback
+If you have any feedback, please reach out to me at niru3913@gmail.com
 

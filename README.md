@@ -63,32 +63,33 @@ Supermarket Management System is the one of the application that is used by orga
         - Delete one Item
         - Edit Item
         - Delete all table data 
-        ![e](Gallery/e.PNG)
+        ![f](Gallery/f.PNG) ![g](Gallery/g.PNG)
     - **Employees**
         - Search Employee data
         - Add Employee data
         - Delete one Employee data
         - Edit Employee data
         - Delete all table data 
-        ![f](Gallery/f.PNG)
+        ![h](Gallery/h.PNG)
     - **Invoices**
         - Search Invoices data
         - Delete one Invoice data
         - Delete all table data 
-        ![g](Gallery/g.PNG)
+        - Open Invoice as Pdf
+        ![r](Gallery/r.PNG)
     - **Settings**
         - Change your Password
         - Set email id to send bill receipt to customer mail
         - Change your store details which will be shown on bill receipt
         - Delete your account permanently
-        ![g](Gallery/g.PNG)
+        ![k](Gallery/k.PNG)
     - **Logout**
         - Logout the page and will go on main Window
-        ![h](Gallery/h.PNG)
+        ![l](Gallery/l.PNG)
 
 - **Employee Login Window
     - Enter your ID and Password given by Admin and click on _**LOGIN**_
-    ![i](Gallery/i.PNG)
+    ![m](Gallery/m.PNG)
 - **Billing System Window**
     - Customer Details 
         - Fill customer Details
@@ -100,22 +101,25 @@ Supermarket Management System is the one of the application that is used by orga
             - Remove Added Details from bill Window
         - **Clear**
             Clear all tha details filled in Products Details section
+        ![n](Gallery/n.PNG)
     - Bill Options
         - **Cal Total Price**
             - This will Calculate the total price of added products
         - **Generate Bill**
             - This will generate the bill receipt
+         ![o](Gallery/o.PNG)
         - **Clear**
             - Clear all the details filled in Customer Details and Bill window Sections
         - **Open Pdf**
             - This will Open Bill receipt as Pdf
+        ![p](Gallery/p.PNG)
+        
     - Search Bill receipt
         - This will search bill receipt by bill Id and shows in Bill Window
     - Logout    
         - This will logout the window and redirect the main window 
-    ![j](Gallery/j.PNG)
-    ![k](Gallery/k.PNG)
-    ![l](Gallery/l.PNG)
+    
+
 
 
 

@@ -46,10 +46,10 @@ Supermarket Management System is the one of the application that is used by orga
 ## Physical Description
  - **Main Window**
     - Select one of the options
-    ![a](Gallery/a.PNG)
+ ![a](Gallery/a.PNG)
  - **Admin Login**
     - To get you ID and Password click on below button _**To Get ID / Password**_.
-    ![b](Gallery/b.PNG) ![c](Gallery/c.PNG) ![c](Gallery/d.PNG)
+     ![b](Gallery/b.PNG) ![c](Gallery/c.PNG) ![c](Gallery/d.PNG)
     
     - Then enter your email id and click on _**Submit**_ and wait for a moment a email will send to you contains your ID and Password.
     
@@ -63,29 +63,29 @@ Supermarket Management System is the one of the application that is used by orga
         - Delete one Item
         - Edit Item
         - Delete all table data 
-        ![f](Gallery/f.PNG) ![g](Gallery/g.PNG)
+    ![f](Gallery/f.PNG) ![g](Gallery/g.PNG)
     - **Employees**
         - Search Employee data
         - Add Employee data
         - Delete one Employee data
         - Edit Employee data
         - Delete all table data 
-        ![h](Gallery/h.PNG)
+    ![h](Gallery/h.PNG)
     - **Invoices**
         - Search Invoices data
         - Delete one Invoice data
         - Delete all table data 
         - Open Invoice as Pdf
-        ![r](Gallery/r.PNG)
+    ![r](Gallery/r.PNG)
     - **Settings**
         - Change your Password
         - Set email id to send bill receipt to customer mail
         - Change your store details which will be shown on bill receipt
         - Delete your account permanently
-        ![k](Gallery/k.PNG)
+    ![k](Gallery/k.PNG)
     - **Logout**
         - Logout the page and will go on main Window
-        ![l](Gallery/l.PNG)
+    ![l](Gallery/l.PNG)
 
 - **Employee Login Window
     - Enter your ID and Password given by Admin and click on _**LOGIN**_
@@ -101,7 +101,7 @@ Supermarket Management System is the one of the application that is used by orga
             - Remove Added Details from bill Window
         - **Clear**
             Clear all tha details filled in Products Details section
-        ![n](Gallery/n.PNG)
+    ![n](Gallery/n.PNG)
     - Bill Options
         - **Cal Total Price**
             - This will Calculate the total price of added products
@@ -112,7 +112,7 @@ Supermarket Management System is the one of the application that is used by orga
             - Clear all the details filled in Customer Details and Bill window Sections
         - **Open Pdf**
             - This will Open Bill receipt as Pdf
-        ![p](Gallery/p.PNG)
+    ![p](Gallery/p.PNG)
         
     - Search Bill receipt
         - This will search bill receipt by bill Id and shows in Bill Window

@@ -125,5 +125,5 @@ Supermarket Management System is the one of the application that is used by orga
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[APACHE](http://www.apache.org/licenses/)
 

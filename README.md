@@ -7,9 +7,9 @@ By using this software, A shop owner can store and sell his /her  product to  th
 
 ## Content
 
- - [Introduction](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Objective](https://github.com/matiassingers/awesome-readme)
- - [Languages & Tools](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Introduction]()
+ - [Objective]()
+ - [Languages & Tools]()
  - [Overview of Project]()
  - [Features]()
  - [Physical Description]()
@@ -32,7 +32,7 @@ Supermarket Management System is the one of the application that is used by orga
  - **PyCharm Community Edition 2020**
 
 ## Overview of Project
-![lo](Gallery\s.PNG)
+![s](PYTHON_PROJECT/Gallery/s.PNG)
 
 ## Features
  - Login Facility( Starting the Software)

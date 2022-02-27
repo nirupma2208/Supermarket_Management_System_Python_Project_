@@ -32,7 +32,7 @@ Supermarket Management System is the one of the application that is used by orga
  - **PyCharm Community Edition 2020**
 
 ## Overview of Project
-![s](PYTHON_PROJECT/Gallery/s.PNG)
+![s](Gallery/s.PNG)
 
 ## Features
  - Login Facility( Starting the Software)

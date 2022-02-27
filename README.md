@@ -7,12 +7,13 @@ By using this software, A shop owner can store and sell his /her  product to  th
 
 ## Content
 
- - [Introduction]()
- - [Objective]()
- - [Languages & Tools]()
- - [Overview of Project]()
- - [Features]()
- - [Physical Description]()
+ - [Introduction](https://github.com/nirupma2208/PYTHON_PROJECT#introduction)
+ - [Objective](https://github.com/nirupma2208/PYTHON_PROJECT#objective)
+ - [Languages & Tools](https://github.com/nirupma2208/PYTHON_PROJECT#languages--tools)
+ - [Overview of Project](https://github.com/nirupma2208/PYTHON_PROJECT#overview-of-project)
+ - [Features](https://github.com/nirupma2208/PYTHON_PROJECT#features)
+ - [Physical Description](https://github.com/nirupma2208/PYTHON_PROJECT#physical-description)
+ - [License](https://github.com/nirupma2208/PYTHON_PROJECT#license)
 
 ## Introduction
 

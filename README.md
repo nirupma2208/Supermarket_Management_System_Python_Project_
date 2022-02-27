@@ -49,11 +49,12 @@ Supermarket Management System is the one of the application that is used by orga
     ![a](Gallery/a.PNG)
  - **Admin Login**
     - To get you ID and Password click on below button _**To Get ID / Password**_.
-    ![b](Gallery/b.PNG)
+    ![b](Gallery/b.PNG) ![c](Gallery/c.PNG) ![c](Gallery/d.PNG)
+    
     - Then enter your email id and click on _**Submit**_ and wait for a moment a email will send to you contains your ID and Password.
-    ![c](Gallery/c.PNG)
+    
     - Enter you email ID and click on _**LOGIN**_
-    ![d](Gallery/d.PNG)
+    ![d](Gallery/e.PNG)
  - **Admin Panal**
     
     - **Inventory**

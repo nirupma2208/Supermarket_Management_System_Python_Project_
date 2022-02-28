@@ -1,8 +1,7 @@
 
 # Supermarket Management System
 
-Supermarket Management System is the one of the application that is used by organization like super market, hardware store, shopping outlets, Books store, pharmacy and a host of others. 
-By using this software, A shop owner can store and sell his /her  product to  the shop and the customer and manage inventory and employees information. The software will handle the procedure needs to store records of invoices, store products details, employees details and print bill. 
+Supermarket Management System is the one of the GUI application programmed in Python that is used by organization like super market, hardware store, shopping outlets, Books store, pharmacy and a host of others. By using this software, A shop owner can store and sell his /her product to the shop and the customer and manage inventory and employees information. The software will handle the procedure needs to store records of invoices, store products details, employees details and print bill.
 
 
 ## Content
